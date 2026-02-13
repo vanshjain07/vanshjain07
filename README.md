@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yooooo, this is Vansh, a 3rd year B. Tech Computer Science Engineer. <br>I am a Big Time Formula One Fan. Now lets talk tech...<br>I’m currently working on HackMate (Coming Soon) 😉<br> I’m exploring hands Advanced Data Analytics<br>Plus, I’m currently learning Machine Learning and InsureTech<br><br>Fun fact about me is, I dont love mixing my passion for F1 with Tech Projects :)
+Yooooo, this is Vansh, a 3rd year B. Tech Computer Science Engineer. <br>I am a Big Time Formula One Fan. Now lets talk tech...<br>I’m currently working on HackMate (Coming Soon) 😉<br> I’m exploring hands Advanced Data Analytics<br>Plus, I’m currently learning Machine Learning and InsureTech<br><br>Fun fact about me is, I love mixing my passion for F1 with Tech Projects :)
 
 
 ## 🌐 Socials:
